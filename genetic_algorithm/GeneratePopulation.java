@@ -1,3 +1,13 @@
+//***************************************
+// Artificial Intelligence - USFQ
+//  		Project 2
+//
+//	AUTHORS: Erick Naunay
+//			Jonathan Cazco
+//			Andrea Porras
+//
+//**************************************
+
 package genetic_algorithm;
 
 import java.util.ArrayList;
